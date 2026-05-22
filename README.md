@@ -106,7 +106,7 @@ The dashboard includes a dedicated India/APAC panel aligned with **CERT-In** adv
 
 <div align="center">
 
-**Built by [Kasu Mallikarjuna](https://www.linkedin.com/in/mallikarjuna-k-a98a67160)**
+** [Kasu Mallikarjuna](https://www.linkedin.com/in/mallikarjuna-k-a98a67160)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallikarjuna-k-a98a67160)
 
